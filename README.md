@@ -4,6 +4,9 @@
 
 No diretório do projeto, você pode executar:
 
+### `npm install` 
+Instala todas as dependencias necessárias.
+
 ### `npm start`
 
 Executa o aplicativo no modo de desenvolvimento.
